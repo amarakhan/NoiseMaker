@@ -1,0 +1,13 @@
+.noise-button {
+    background-color: gray;
+    display: inline-block;
+    border-radius: 10px;
+    width: 32vw;
+    height: 32vh;
+}
+
+main{
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
